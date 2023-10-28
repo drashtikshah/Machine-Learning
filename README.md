@@ -1,1 +1,2 @@
 # Machine-Learning
+#Machine learning is a subfield of artificial intelligence that focuses on the development of algorithms and statistical models that enable computers to learn from and make predictions or decisions based on data, without being explicitly programmed. It's a powerful technology that has found applications in a wide range of fields, from image and speech recognition to finance, healthcare, and more.
